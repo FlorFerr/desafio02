@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Carpeta",
+    "price": 0.9,
+    "id": 1
+  },
+  {
+    "title": "Goma",
+    "price": 0.1,
+    "id": 4
+  },
+  {
+    "title": "Regla",
+    "price": 0.2,
+    "id": 5
+  },
+  {
+    "title": "Fibra",
+    "price": 0.7,
+    "id": 6
+  },
+  {
+    "title": "Libro",
+    "price": 1.7,
+    "id": 7
+  }
+]
